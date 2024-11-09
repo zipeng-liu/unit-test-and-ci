@@ -1,4 +1,4 @@
-//alert('hello JS!');
+alert('hello JS!');
 import './style.css';
 
 import React from 'react';
